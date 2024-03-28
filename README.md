@@ -4,19 +4,15 @@
 )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henrique94lopes/
 )
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](henrique94ita@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1711625514
 )
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5538991799894)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://is.gd/0wa5Ab)
 
 <div>
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=RICK-1994-ITAC&show_icons=true&theme=dark"/>
 <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RICK-1994-ITAC&layout-compact&langs_count-16&theme=dark"/>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RICK-1994-ITAC/RICK-1994-ITAC/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RICK-1994-ITAC/RICK-1994-ITAC/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RICK-1994-ITAC/RICK-1994-ITAC/output/github-contribution-grid-snake.svg">
-</picture>
 
 *** 
 ### Técnologias mais ultilizadas por min 📊
