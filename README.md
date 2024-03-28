@@ -1,4 +1,4 @@
-## Olá!, Me chamo Henrique Lopes 😄🖐️
+## Olá!, Sou o Henrique Lopes 😄🖐️
 
 [![LInkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rick94ita
 )
