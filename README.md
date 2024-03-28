@@ -42,7 +42,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/RICK-1994-ITAC/RICK-1994-ITAC/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
