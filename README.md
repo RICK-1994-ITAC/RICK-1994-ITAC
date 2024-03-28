@@ -11,20 +11,21 @@
 
 <div>
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=RICK-1994-ITAC&show_icons=true&theme=dark"/>
-<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RICK-1994-ITAC&layout-compact&langs_count-16&theme=dark"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RICK-1994-ITAC&theme=dark&hide_border=false&&layout=compact"/>
 </div>
+
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="30" width="40" src="/assets/GitHub.png">
+</div><br>
 
 *** 
-### Técnologias mais ultilizadas por min 📊
-
-<div align="center">
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img alt="JavaScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-
-</div>
 
 ### 👨‍💻Sou um estudante de programação, e busco a cada dia aperfeiçoar meus conhecimentos, tanto fazendo projetos, quanto por outros meios... Busco "conhecimento dos Homens", para viver na "terra dos Homens", más sem deixar o conhecimento de DEUS de lado, para que um dia também possa viver com Ele. ❤️
 ### Grato por sua visita 🤝
