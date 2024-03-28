@@ -13,6 +13,9 @@
 <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RICK-1994-ITAC&layout-compact&langs_count-16&theme=dark"/>
 </div>
 
+![Snake animation](https://github.com/RICK-1994-ITAC/RICK-1994-ITAC/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=RICK-1994-ITAC&repo=RICK-1994-ITAC&theme=react)](https://github.com/RICK-1994-ITAC/RICK-1994-ITAC)
 
 *** 
 ### Técnologias mais ultilizadas por min 📊
