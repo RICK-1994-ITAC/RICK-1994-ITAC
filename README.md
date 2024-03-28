@@ -12,10 +12,11 @@
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=RICK-1994-ITAC&show_icons=true&theme=dark"/>
 <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RICK-1994-ITAC&layout-compact&langs_count-16&theme=dark"/>
 </div>
-
-![Snake animation](https://github.com/RICK-1994-ITAC/RICK-1994-ITAC/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=RICK-1994-ITAC&repo=RICK-1994-ITAC&theme=react)](https://github.com/RICK-1994-ITAC/RICK-1994-ITAC)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RICK-1994-ITAC/RICK-1994-ITAC/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RICK-1994-ITAC/RICK-1994-ITAC/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RICK-1994-ITAC/RICK-1994-ITAC/output/github-contribution-grid-snake.svg">
+</picture>
 
 *** 
 ### Técnologias mais ultilizadas por min 📊
